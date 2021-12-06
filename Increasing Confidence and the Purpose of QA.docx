@@ -1,0 +1,51 @@
+Increasing Confidence and the Purpose of QA
+
+
+
+Brainstorm for Yoodlize, Testing:
+1.	Navigation and home pages are at the bottom of the page.
+1.	Not very user-friendly. 
+2.	Create an account
+1.	Account verification bugs
+2.	The location of the sign-up is not obvious for the users.
+3.	Not intuitive. 
+3.	Login/sign-up 
+1.	Sing-up incomplete
+2.	Forgot user info.
+3.	Footer is not c
+4.	Broken links
+1.	Ex. map is broken.
+2.	Sometimes our Map shows items and other times it does not. 
+3.	Map specks are not correct in general.
+4.	Inconsistent with search results. 
+1.	Desktop version adjust to phone if the screen is minimized 
+
+
+5.	Any category from the home page search all or see all, give you results up to about the 5th page: Not showing all results. 
+6.	****** our search for the Rubik’s Cube did not produce results. It would be nice to get a message of “items not found ect…”
+
+
+•	After spending some time exploring Yoodlize, what are your first impressions? Shaky work.
+•	Is the site easy to use? NO
+•	Is the user experience/flow of the website easy to navigate? No
+
+
+Yoodlize Search Test “Rubik’s Cube”
+•	No rubiks cube to be found during search
+o	Search from the home page
+o	Search from the advanced search both do not work together or give the same items. 
+o	Only two items appear
+•	Click on the first result:
+o	First item: “Crystal Cube of Destiny”: no action
+o	The rent button does not allow users to rent unless users are from Utah.
+•	Searching for a cube gives the same results. 
+•	Search does not adjust with the changing of the zipcode
+Searching with Yoodlize, produces different results from each and any search. 
+
+
+My first impressions with the site is that it’s not arranged efficiently, and a lot of spelling errors and not functional at all. Everything is just grouped under any search criteria. It’s not the easiest to use cause you never get what you search for, anything you put in the search bar it takes those works or letters and pull anything that has those letters in it as a search result. The flow/experience is not easy to navigate, you have to do a lot of redundant clicking to get back to certain places.
+
+The first test: of searching for “Rubik’s Cube” I didn’t get results back.
+
+Second test: I searched for a baseball bat and got 5 results. A girl softball bat, batman, battery charger, battery camping lantern, and Archery combat. It seems that it search by keywords in the description.
+At the bottom of the page where it has “Connect with Us” its not even with the rest of the navigation bar. The terms & privacy at the bottom of page has links to click on it and send you to the same info twice. It has link to both words rather than just one word. If you click on “How it works it takes you to a page about how to rent and do more, but if you hit the “how it works tag” again it doesn’t refresh, it doesn’t work If you are already on the page. At the bottom of map search it has a link to Terms and Privacy, currency and more. But when you click on it, it doesn’t take you to that. It takes you to the bottom of the home page and then you can click it there. Rather than going straight to that info from the map search page. The support@yoodlize.com link doesn’t work, you can’t click on it. The advance search does not work properly, when entering a min and max price, it doesn’t filter correctly. When you filter by the category provided, it does not work, you get not results are the wrong results, but if you just go to search for that 
